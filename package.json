@@ -1,0 +1,8 @@
+{
+  "name": "node-starter",
+  "private": true,
+  "scripts": {
+    "build": "gcc -Wall -Wextra -o packet_sniffer packet_sniffer.c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
